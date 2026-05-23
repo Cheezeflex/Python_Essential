@@ -1,0 +1,235 @@
+﻿2026-05-06 15:08:54> Program: Starting Squirrel Updater: --createShortcut=Teams.exe -l=StartMenu,Desktop
+2026-05-06 15:08:54> UpdateManager: using rootAppDirectory: C:\Users\You\AppData\Local\Microsoft\Teams
+2026-05-06 15:08:54> ApplyReleasesImpl: About to create shortcuts for Teams.exe, rootAppDir C:\Users\You\AppData\Local\Microsoft\Teams
+2026-05-06 15:08:54> ApplyReleasesImpl: In linkTargetForVersionInfo
+2026-05-06 15:08:54> ApplyReleasesImpl: Creating shortcut for Teams.exe => C:\Users\You\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microsoft Teams.lnk
+2026-05-06 15:08:54> ApplyReleasesImpl: About to save shortcut: C:\Users\You\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microsoft Teams.lnk (target C:\Users\You\AppData\Local\Microsoft\Teams\Update.exe, workingDir C:\Users\You\AppData\Local\Microsoft\Teams, args --processStart "Teams.exe", toastActivatorCSLID d1b22d3d-8585-53a6-acb3-0e803c7e8d2a)
+2026-05-06 15:08:55> ApplyReleasesImpl: In linkTargetForVersionInfo
+2026-05-06 15:08:55> ApplyReleasesImpl: Creating shortcut for Teams.exe => C:\Users\You\Desktop\Microsoft Teams.lnk
+2026-05-06 15:08:55> ApplyReleasesImpl: About to save shortcut: C:\Users\You\Desktop\Microsoft Teams.lnk (target C:\Users\You\AppData\Local\Microsoft\Teams\Update.exe, workingDir C:\Users\You\AppData\Local\Microsoft\Teams, args --processStart "Teams.exe", toastActivatorCSLID d1b22d3d-8585-53a6-acb3-0e803c7e8d2a)
+2026-05-06 15:08:55> ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+2026-05-06 15:08:55> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2026-05-07 15:02:42> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-07 15:02:42> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-07 15:02:42> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 15:02:42> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 15:02:42> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 15:02:42> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 15:02:42> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 15:02:42> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-07 15:02:42> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-07 15:02:42> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-07 15:02:42> Program: autoStartGpoPolicy NotConfigured
+2026-05-07 15:02:42> Program: deadEndEncounter False
+2026-05-07 15:02:42> Program: preventAutoStart False
+2026-05-07 15:02:42> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 15:02:42> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-07 15:02:44> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-07 16:33:45> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-07 16:33:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-07 16:33:45> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 16:33:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 16:33:45> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 16:33:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 16:33:45> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-07 16:33:45> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-07 16:33:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-07 16:33:45> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-07 16:33:45> Program: autoStartGpoPolicy NotConfigured
+2026-05-07 16:33:45> Program: deadEndEncounter False
+2026-05-07 16:33:45> Program: preventAutoStart False
+2026-05-07 16:33:45> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-07 16:33:45> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-07 16:33:46> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-09 13:33:15> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-09 13:33:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-09 13:33:16> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-09 13:33:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-09 13:33:16> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-09 13:33:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-09 13:33:16> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-09 13:33:16> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-09 13:33:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-09 13:33:16> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-09 13:33:16> Program: autoStartGpoPolicy NotConfigured
+2026-05-09 13:33:16> Program: deadEndEncounter False
+2026-05-09 13:33:16> Program: preventAutoStart False
+2026-05-09 13:33:16> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-09 13:33:16> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-09 13:33:20> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-10 09:40:34> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-10 09:40:34> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-10 09:40:34> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-10 09:40:34> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-10 09:40:34> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-10 09:40:34> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-10 09:40:34> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-10 09:40:34> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-10 09:40:34> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-10 09:40:34> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-10 09:40:34> Program: autoStartGpoPolicy NotConfigured
+2026-05-10 09:40:34> Program: deadEndEncounter False
+2026-05-10 09:40:34> Program: preventAutoStart False
+2026-05-10 09:40:34> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-10 09:40:34> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-10 09:40:36> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-11 15:32:28> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-11 15:32:28> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-11 15:32:28> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-11 15:32:28> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-11 15:32:28> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-11 15:32:28> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-11 15:32:28> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-11 15:32:28> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-11 15:32:28> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-11 15:32:28> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-11 15:32:28> Program: autoStartGpoPolicy NotConfigured
+2026-05-11 15:32:28> Program: deadEndEncounter False
+2026-05-11 15:32:28> Program: preventAutoStart False
+2026-05-11 15:32:28> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-11 15:32:28> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-11 15:32:30> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-12 14:31:22> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-12 14:31:23> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-12 14:31:23> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-12 14:31:23> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-12 14:31:23> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-12 14:31:23> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-12 14:31:23> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-12 14:31:23> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-12 14:31:23> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-12 14:31:23> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-12 14:31:23> Program: autoStartGpoPolicy NotConfigured
+2026-05-12 14:31:23> Program: deadEndEncounter False
+2026-05-12 14:31:23> Program: preventAutoStart False
+2026-05-12 14:31:23> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-12 14:31:23> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-12 14:31:24> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-13 15:25:08> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-13 15:25:08> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-13 15:25:08> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-13 15:25:08> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-13 15:25:08> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-13 15:25:08> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-13 15:25:08> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-13 15:25:08> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-13 15:25:08> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-13 15:25:08> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-13 15:25:08> Program: autoStartGpoPolicy NotConfigured
+2026-05-13 15:25:08> Program: deadEndEncounter False
+2026-05-13 15:25:08> Program: preventAutoStart False
+2026-05-13 15:25:08> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-13 15:25:08> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-13 15:25:10> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-16 15:09:44> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-16 15:09:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-16 15:09:45> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-16 15:09:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-16 15:09:45> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-16 15:09:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-16 15:09:45> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-16 15:09:45> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-16 15:09:45> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-16 15:09:45> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-16 15:09:45> Program: autoStartGpoPolicy NotConfigured
+2026-05-16 15:09:45> Program: deadEndEncounter False
+2026-05-16 15:09:45> Program: preventAutoStart False
+2026-05-16 15:09:45> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-16 15:09:45> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-16 15:09:47> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-17 14:32:37> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-17 14:32:37> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-17 14:32:37> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 14:32:37> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 14:32:37> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 14:32:37> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 14:32:37> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 14:32:37> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-17 14:32:37> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-17 14:32:37> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-17 14:32:37> Program: autoStartGpoPolicy NotConfigured
+2026-05-17 14:32:37> Program: deadEndEncounter False
+2026-05-17 14:32:37> Program: preventAutoStart False
+2026-05-17 14:32:37> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 14:32:37> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-17 14:32:38> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-17 17:36:16> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-17 17:36:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-17 17:36:16> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 17:36:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 17:36:16> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 17:36:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 17:36:16> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-17 17:36:16> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-17 17:36:16> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-17 17:36:16> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-17 17:36:16> Program: autoStartGpoPolicy NotConfigured
+2026-05-17 17:36:16> Program: deadEndEncounter False
+2026-05-17 17:36:16> Program: preventAutoStart False
+2026-05-17 17:36:17> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-17 17:36:17> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-17 17:36:17> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-18 15:27:59> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-18 15:27:59> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-18 15:27:59> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-18 15:27:59> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-18 15:27:59> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-18 15:27:59> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-18 15:27:59> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-18 15:27:59> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-18 15:27:59> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-18 15:27:59> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-18 15:27:59> Program: autoStartGpoPolicy NotConfigured
+2026-05-18 15:27:59> Program: deadEndEncounter False
+2026-05-18 15:27:59> Program: preventAutoStart False
+2026-05-18 15:27:59> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-18 15:27:59> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-18 15:28:01> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-19 11:09:44> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-19 11:09:44> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-19 11:09:44> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-19 11:09:44> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-19 11:09:44> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-19 11:09:44> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-19 11:09:44> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-19 11:09:44> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-19 11:09:44> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-19 11:09:44> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-19 11:09:44> Program: autoStartGpoPolicy NotConfigured
+2026-05-19 11:09:44> Program: deadEndEncounter False
+2026-05-19 11:09:44> Program: preventAutoStart False
+2026-05-19 11:09:44> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-19 11:09:44> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-19 11:09:46> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-21 11:13:47> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-21 11:13:47> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-21 11:13:47> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 11:13:47> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 11:13:47> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 11:13:47> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 11:13:47> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 11:13:47> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-21 11:13:47> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-21 11:13:47> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-21 11:13:47> Program: autoStartGpoPolicy NotConfigured
+2026-05-21 11:13:47> Program: deadEndEncounter False
+2026-05-21 11:13:47> Program: preventAutoStart False
+2026-05-21 11:13:47> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 11:13:47> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-21 11:13:49> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
+2026-05-21 14:26:07> Program: Starting Squirrel Updater: --processStart Teams.exe --process-start-args --system-initiated
+2026-05-21 14:26:07> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Cloud\Office\16.0\Teams does not exist
+2026-05-21 14:26:07> Program: Registry value Software\Policies\Microsoft\Cloud\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 14:26:07> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 14:26:07> Program: Registry value Software\Policies\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 14:26:07> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 14:26:07> Program: Registry value Software\Microsoft\Office\16.0\Teams\PreventFirstLaunchAfterInstall does not exist
+2026-05-21 14:26:07> Program: Registry flags are not set: proceed with default value NotConfigured
+2026-05-21 14:26:07> RegistryService: RegKeyExists: HKEY_CURRENT_USER\Software\Microsoft\Office\Teams does not have DeadEndV3
+2026-05-21 14:26:07> Program: Registry value Software\Microsoft\Office\Teams\DeadEndV3 does not exist. Return default value: false
+2026-05-21 14:26:07> Program: autoStartGpoPolicy NotConfigured
+2026-05-21 14:26:07> Program: deadEndEncounter False
+2026-05-21 14:26:07> Program: preventAutoStart False
+2026-05-21 14:26:07> RegistryService: TryGetRegKey: HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Office\16.0\Teams does not exist
+2026-05-21 14:26:07> Program: Want to launch 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe'
+2026-05-21 14:26:08> Program: About to launch: 'C:\Users\You\AppData\Local\Microsoft\Teams\current\Teams.exe': --system-initiated
